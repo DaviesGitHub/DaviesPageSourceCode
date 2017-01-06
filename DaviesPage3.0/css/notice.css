@@ -1,0 +1,117 @@
+._davies_notice_div {
+	position:fixed;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	z-index:9;
+}
+._davies_notice_div_background {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	background-color:#AAA;
+	z-index:0;
+	animation-name: _davies_notice_div_background;
+	animation-duration:0.5s;
+	animation-timing-function:ease-in-out;
+	animation-fill-mode:forwards;
+	-webkit-animation-name: _davies_notice_div_background;
+	-webkit-animation-duration:0.5s;
+	-webkit-animation-timing-function:ease-in-out;
+	-webkit-animation-fill-mode:forwards;
+}
+@keyframes _davies_notice_div_background{
+	from {
+		opacity:0;
+	}
+	to {
+		opacity:0.4;
+	}
+}
+._davies_notice_div_content_div {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	padding-top:5%;
+	z-index:1;
+}
+._davies_notice_div_content {
+	position:relative;
+	width:80vw;
+	margin-left:10vw;
+	border-left-style:solid;
+	border-left-width:1vw;
+	padding-top:1vw;
+	padding-bottom:1vw;
+	padding-left:2vw;
+	background-color:#eee;
+	font-size:150%;
+}
+
+._davies_notice_div_content._notice_primary {
+	border-left-color: #337ab7;
+}
+
+._davies_notice_div_content._notice_success {
+	border-left-color: #3c763d;
+}
+
+._davies_notice_div_content._notice_info {
+	border-left-color: #31708f;
+}
+
+._davies_notice_div_content._notice_warning {
+	border-left-color: #8a6d3b;
+}
+
+._davies_notice_div_content._notice_danger {
+	border-left-color: #a94442;
+}
+
+._davies_notice_div_content_animation {
+	overflow:hidden;
+	animation-name: _davies_notice_div_content_animation;
+	animation-duration:0.7s;
+	animation-timing-function:ease-in-out;
+	animation-fill-mode:forwards;
+	-webkit-animation-name: _davies_notice_div_content_animation;
+	-webkit-animation-duration:0.7s;
+	-webkit-animation-timing-function:ease-in-out;
+	-webkit-animation-fill-mode:forwards;
+}
+
+@keyframes _davies_notice_div_content_animation {
+	from {
+		width:0%;
+	}
+	to {
+		width:100%;
+	}
+}
+
+
+._davies_notice_div_content_close {
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:right;
+}
+
+._davies_notice_div_content_close_span {
+	opacity:0.8;
+	font-size:250%;
+	font-family: 'Glyphicons Halflings';
+	color:red;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+}
+
+._davies_notice_div_content_close_span:before {
+	content: "\e083";
+}

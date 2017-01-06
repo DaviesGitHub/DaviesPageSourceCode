@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+	<![CDATA[		
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+			<div class="navbar-header">
+				</div>
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>	
+				<a class="navbar-brand" href="#">
+					<img alt="Brand" style="height:50px;" src="picture/IdealLogo.png">
+				</a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li><a href="http://github.com/DaviesGitHub/DaviesPageSourceCode" target = "black">Page Source Code</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More<span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="javascript:_davies_test_notice();">Sorry</a></li>
+								<li><a href="javascript:_davies_test_notice();">there</a></li>
+								<li><a href="javascript:_davies_test_notice();">are</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a href="javascript:_davies_test_notice();">no</a></li>
+								<li><a href="javascript:_davies_test_notice();">more</a></li>
+								<li><a href="javascript:_davies_test_notice();">features</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a href="javascript:_davies_test_notice();">in the </a></li>
+								<li><a href="javascript:_davies_test_notice();">test page!</a></li>
+							</ul>
+						</li>
+					</ul>
+					<form class="navbar-form navbar-left" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Search">
+						</div>
+						<button type="button" onclick="_davies_test_notice();" class="btn btn-default">Search</button>
+					</form>
+					<p class="navbar-text navbar-right">Signed in as <a href="javascript:_davies_test_notice();" class="navbar-link">Vistor</a></p>
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+		</nav>
+		<div class="showcase">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-4 ._a">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/Html5.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									HTML5
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _b">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/CSS3.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									CSS3
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _c">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/JavaScript.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									JavaScript
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _d">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/jQuery.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									jQuery
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _e">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/PHP.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									PHP
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _f">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/MySql.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									MySql
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _g">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/Photoshop.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									Photoshop
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _h">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/AI.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									AI
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _i">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/CPP.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									C++
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _j">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/Android.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									Android
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _k">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/3Ds-MAX.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									3Ds MAX
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 _l">
+					<a href="javascript:_davies_test_notice();" class="thumbnail">
+						<img src="picture/Java.gif" alt="...">
+					<div class="cover">
+						<div class="background"></div>
+						<div class="table">
+							<div class="content">
+								<h2 class="tittle">
+									Java
+								</h2>
+								<div class="article">
+									article
+								</div>
+								<div class="view">
+									<span class="show">&nbsp&nbspview this demo</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="copyright">
+			Copyright &copy 2017 Davies. All rights reserved.
+		</div>
+	]]>
+</html>
